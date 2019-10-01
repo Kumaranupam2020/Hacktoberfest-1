@@ -9,3 +9,4 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Python
 
 -   [Real Python](https://www.realpython.com)
+-   [Python Tutorials](https://www.w3schools.com/python/)
